@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PPswag
-- 👀 I’m interested in python, C#
-- 🌱 I’m currently learning python and C#
-- 💞️ I’m looking to collaborate on apis or discord bots
-- 📫 How to reach on discord:: PP_Swag#7583
+- 👋 Hi, I’m @SidPatel
+- 👀 I’m interested in python, C#, java, and Go
+- 🌱 I’m currently learning java, dart, javascript, Go
+- 💞️ I’m looking to collaborate on apis or discord bots. I also do work on AI/ML.
+- 📫 How to reach on instagram: @s1d.pat3l
 
 <!---
 PPswag/PPswag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
